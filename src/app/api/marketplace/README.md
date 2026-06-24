@@ -177,3 +177,6 @@ Returns aggregate statistics for the marketplace for use in header KPIs and anal
 
 ## Issue #648 Fix
 Documentation updated per issue requirements.
+
+## Issue #647 Fix
+Documentation updated per issue requirements.
